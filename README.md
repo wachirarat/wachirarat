@@ -2,7 +2,7 @@
 # Hey there! :wave::smiley:
 
 <!--Introduction -->
-I'm Toei Wachira! I'm a **Frontend Developer**💻:
+I'm Toei Wachira! I'm a **Frontend Developer**💻
 
 <!-- Your badges -->
 [![Facebook](https://img.shields.io/badge/-ToeiWachira-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/wachira.ladtayapitak/)
