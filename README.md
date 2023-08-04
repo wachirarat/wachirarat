@@ -5,7 +5,8 @@
 I'm Toei Wachira! I'm a **Frontend Developer**:iphone:
 
 <!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-ToeiWachira-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wachira-rataypaitak-52910723b/)
+[![Facebook](https://img.shields.io/badge/-ToeiWachira-blue?style=flat&labelColor=blue&logo=facebook&logoColor=white)](https://www.facebook.com/wachira.ladtayapitak/)
+[![Linkedin](https://img.shields.io/badge/-ToeiWachira-purple?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wachira-rataypaitak-52910723b/)
 [![Gmail](https://img.shields.io/badge/-Wachiraratpim-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
 [![Github](https://img.shields.io/badge/-ToeiWachira-black?style=flat&labelColor=black&logo=github&logoColor=white)](https://github.com/wachirarat)
 
